@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<title>거실‒주방 에어컨 구매 제안 보고서</title>
+
+<style>
+    body{font-family:"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#f9fafb;color:#222;margin:0}
+    header{background:#004d7a;color:#fff;padding:32px 24px}
+    header h1{margin:0;font-size:28px}
+    header p{margin:4px 0 0;font-size:15px;opacity:.85}
+    section{padding:32px 24px;max-width:960px;margin:auto}
+    h2{color:#004d7a;margin:40px 0 16px;font-size:22px;border-bottom:2px solid #eee;padding-bottom:4px}
+    table{width:100%;border-collapse:collapse;margin:16px 0;font-size:15px}
+    th,td{border:1px solid #ddd;padding:8px 10px;text-align:center}
+    th{background:#eff4f8;font-weight:600}
+    tbody tr:nth-child(even){background:#fafafa}
+    .highlight{background:#d9f2e6}
+    ul{margin:8px 0 0 18px}
+    footer{background:#f0f3f7;padding:20px 24px;font-size:13px;color:#555;text-align:center}
+</style>
+</head>
+
+<body>
+<header>
+    <h1>BESPOKE AI 무풍 콤보 거실 에어컨 구매 제안</h1>
+    <p>설치 공간 : 전용 84 ㎡ 아파트 / 거실·주방·복도 34.5 ㎡<br />
+       작성일 : 2025-04-25</p>
+</header>
+
+<section>
+    <h2>1. 공간 분석</h2>
+    <table>
+        <thead>
+            <tr><th>구역</th><th>치수 (㎜)</th><th>면적 (㎡)</th><th>비고</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>거실</td><td>4 640 × 3 820</td><td>17.7</td><td rowspan="4">짙은 주황색 영역</td></tr>
+            <tr><td>가로 복도</td><td>4 640 × 1 290</td><td>6.0</td></tr>
+            <tr><td>세로 복도</td><td>1 500 × 2 130</td><td>3.2</td></tr>
+            <tr><td>주방/식당</td><td>3 550 × 2 130</td><td>7.6</td></tr>
+            <tr><th>합계</th><th colspan="2">≈ 34.5 ㎡ (10.4평)</th><th></th></tr>
+        </tbody>
+    </table>
+    <p><strong>필요 설계 냉방 부하</strong> : 34.5 ㎡ × 150 W/㎡ ≈ <strong>5.2 kW</strong></p>
+</section>
+
+<section>
+    <h2>2. 후보 모델 비교</h2>
+    <table>
+        <thead>
+            <tr>
+                <th rowspan="2">모델</th>
+                <th rowspan="2">가격<br />(원)</th>
+                <th rowspan="2">정격<br />냉방 (kW)</th>
+                <th rowspan="2">정격<br />소비전력 (kW)</th>
+                <th rowspan="2">에너지<br />등급</th>
+                <th colspan="2">요구 (5.2 kW) 대비</th>
+            </tr>
+            <tr><th>여유율</th><th>메모</th></tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>① AF80F19D25WRZ</td>
+                <td>2,499,000</td>
+                <td>7.7</td>
+                <td>1.95</td>
+                <td>2</td>
+                <td>+48 %</td>
+                <td>용량↑ · 전기료↑</td>
+            </tr>
+            <tr class="highlight">
+                <td>② AF80F18D25WRT</td>
+                <td>2,799,000</td>
+                <td>7.2</td>
+                <td>1.70</td>
+                <td>1</td>
+                <td>+38 %</td>
+                <td>가격-효율 균형</td>
+            </tr>
+            <tr>
+                <td>③ AF80F18D28WRT</td>
+                <td>2,949,000</td>
+                <td>7.2</td>
+                <td>1.60</td>
+                <td>1</td>
+                <td>+38 %</td>
+                <td>소비전력 최저</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+<section>
+    <h2>3. 돈으로 따져보면 <small style="font-size:14px;">(8 h/일 × 30 일 가동, 여름 3개월 가정)</small></h2>
+    <table>
+        <thead>
+            <tr>
+                <th rowspan="2">모델</th>
+                <th rowspan="2">초기 가격<br />(원)</th>
+                <th rowspan="2">월 전기료<br />(원)</th>
+                <th rowspan="2">여름 3개월<br />전기료/년</th>
+                <th colspan="2">5년 총비용</th>
+            </tr>
+            <tr><th>합계 (원)</th><th>1번 대비 증감</th></tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>① AF80F19D25WRZ</td>
+                <td>2,499,000</td>
+                <td>≈ 81,000</td>
+                <td>≈ 243,000</td>
+                <td>≈ 3,714,000</td>
+                <td>기준</td>
+            </tr>
+            <tr class="highlight">
+                <td>② AF80F18D25WRT</td>
+                <td>2,799,000</td>
+                <td>≈ 61,000</td>
+                <td>≈ 182,000</td>
+                <td>≈ 3,711,000</td>
+                <td>-3,000 (↓0.1%)</td>
+            </tr>
+            <tr>
+                <td>③ AF80F18D28WRT</td>
+                <td>2,949,000</td>
+                <td>≈ 56,000</td>
+                <td>≈ 167,000</td>
+                <td>≈ 3,783,000</td>
+                <td>+69,000 (↑1.9%)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><strong>손익분기점(BEP)</strong></p>
+    <ul>
+        <li><strong>② vs ①</strong> : 초기 ↑300 k ↔ 전기료 ↓≈ 61 k/년 → <u>약 5 년</u>이면 ②가 더 저렴해짐.</li>
+        <li><strong>③ vs ②</strong> : 초기 ↑150 k ↔ 전기료 ↓≈ 15 k/년 → <u>약 10 년</u> 사용해야 ③가 이득.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>4. 추천</h2>
+    <p style="font-size:17px;"><strong>권장 모델 : ② BESPOKE AI 무풍 콤보 AF80F18D25WRT</strong></p>
+    <ul>
+        <li>요구 5.2 kW 대비 38 % 여유 → 빠른 쿨링 &amp; 저 rpm 운전·저소음.</li>
+        <li>에너지효율 1등급, 월 전기료 20 k↓ (① 대비).</li>
+        <li>초기·전기료 합산 5년 총비용이 가장 낮거나 동일 수준.</li>
+        <li>배관 길이 2 m 내외(거실 ↔ 발코니)로 설치비 최소화.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>5. 설치·사용 팁</h2>
+    <ul>
+        <li><strong>실내기</strong> : 거실-발코니 문 옆 기둥 → 거실·주방까지 직선 송풍.</li>
+        <li><strong>실외기</strong> : 발코니 코너, 전용 받침대 + 배수 확인.</li>
+        <li><strong>전용 차단기</strong> 20 A 이상, 분전함 잔여 용량 확인.</li>
+        <li>하루 사용 시간·패턴을 알려주시면 <em>예상 월 전기료</em>를 추가 시뮬레이션해 드립니다.</li>
+    </ul>
+</section>
+
+<footer>
+    본 보고서는 구매 의사결정 지원을 위한 참고자료입니다.<br />
+    실제 시공 시 현장 여건(배관·배수·전원)을 반드시 재확인해 주십시오.
+</footer>
+</body>
+</html>
